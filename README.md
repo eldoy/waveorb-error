@@ -7,7 +7,7 @@ Based on MongoDB. Saves errors in the 'error' collection in the database.
 ### Install
 
 ```
-npm install waveorb-cache
+npm install waveorb-error
 ```
 
 ### Usage

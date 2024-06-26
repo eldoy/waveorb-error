@@ -1,0 +1,19 @@
+{
+  "name": "waveorb-error",
+  "version": "0.1.0",
+  "description": "Waveorb error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldoy/waveorb-error.git"
+  },
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldoy/waveorb-error/issues"
+  },
+  "homepage": "https://github.com/eldoy/waveorb-error#readme"
+}
